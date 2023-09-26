@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saikiran Kalidindi</h1>
-<h3 align="center">A Professoional Full Stack developer and Data Scientist from India</h3>
+<h3 align="center">A Professional Full Stack developer and Data Scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikirankalidindi&label=Profile%20views&color=0e75b6&style=flat" alt="saikirankalidindi" /> </p>
 
